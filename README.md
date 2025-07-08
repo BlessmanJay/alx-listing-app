@@ -34,3 +34,29 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+# Components
+
+Button.tsx
+
+✅ What it does:
+Reusable button component with basic Tailwind styling. You pass in the label and an onClick function.
+
+Card.tsx
+
+✅ What it does:
+Displays an image, title, and description — just like an Airbnb-style property listing card.
+
+# Interface
+
+Index.tsx
+
+✅ What it does:
+This file defines the types for the props you pass into your components. This keeps your code safe, readable, and consistent using TypeScript.
+
+# Constants
+
+Listing.ts
+
+✅ What it does:
+Holds example listing data you can later map over to show multiple Cards.
