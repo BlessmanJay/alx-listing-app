@@ -1,5 +1,5 @@
 import React from "react";
-import { CardProps } from "../interfaces/index.tsx/index.jsx";
+import { CardProps } from "../../interfaces/index.ts/index.jsx";
 
 const Card: React.FC<CardProps> = ({ title, description, image }) => {
   return (

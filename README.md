@@ -35,6 +35,24 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 
+# ALX Listing App
+
+This is a scaffolded project for an Airbnb-style property listing page. It is part of the ALX Software Engineering program milestone.
+
+## 🚀 Project Goals
+
+- Create a clean, maintainable, and scalable foundation for a modern web app.
+- Practice with Next.js, TypeScript, TailwindCSS, and ESLint.
+- Build reusable components (like Card and Button).
+- Organize code and assets for real-world production readiness.
+
+## 🗂️ Project Structure
+
+components/ -> Reusable UI components like Card and Button
+interfaces/ -> TypeScript interfaces for component props and data types
+constants/ -> Static values and sample data
+public/assets/ -> Project-wide images and SVGs
+
 # Components
 
 Button.tsx

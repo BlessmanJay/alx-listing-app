@@ -1,5 +1,5 @@
 import React from "react";
-import { ButtonProps } from "../../interfaces/index.tsx/index.jsx";
+import { ButtonProps } from "../../interfaces/index.ts/index.jsx";
 
 const Button: React.FC<ButtonProps> = ({ label, onClick, type = "button" }) => {
   return (
